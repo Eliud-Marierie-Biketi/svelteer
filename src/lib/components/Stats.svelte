@@ -1,10 +1,10 @@
 <div class="p-4 xl:p-10 bg-base-300 my-10 rounded-lg">
 	<div class="max-w-lg mx-auto pb-10">
-		<div class="text-3xl font-bold text-center my-5">Instant Insights</div>
+		<div class="text-3xl font-bold text-center my-5">Welcome Aboard</div>
 		<div class="text-lg text-center my-5">
-			Voluptate eiusmod quis do aliquip labore esse pariatur excepteur dolore do fugiat sint Lorem
-			commodo ea pariatur.
+			Welcome to POET-ESS-ENTIAL! Dive into a world where words come alive and imagination knows no bounds. Whether you’re here to explore inspiring poetry, find creative expression, or simply enjoy the beauty of verse, we’re thrilled to have you join our community. Let’s embark on this poetic journey together!
 		</div>
+		
 	</div>
 
 	<div class="stats flex flex-col lg:flex-row bg-base-100 shadow-lg">
@@ -44,7 +44,7 @@
 				>
 			</div>
 			<div class="stat-title">Connections</div>
-			<div class="stat-value text-primary-focus">2.6M</div>
+			<div class="stat-value text-primary-focus">2.6k</div>
 			<div class="stat-desc">21% more than last month</div>
 		</div>
 

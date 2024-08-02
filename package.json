@@ -25,7 +25,6 @@
 		"daisyui": "^4.12.2",
 		"eslint": "^8.28.0",
 		"eslint-config-prettier": "^8.5.0",
-		"eslint-plugin-svelte3": "^4.0.0",
 		"postcss": "^8.4.14",
 		"postcss-load-config": "^4.0.1",
 		"prettier": "^2.8.0",
@@ -39,5 +38,8 @@
 		"vite": "^5.0.0",
 		"vitest": "^1.0.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"pnpm": "^9.6.0"
+	}
 }
